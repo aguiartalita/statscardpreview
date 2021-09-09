@@ -4,21 +4,18 @@ Esta é uma solução para [Stats preview card component challenge on Frontend M
 
 ## Índice
 
-- [Visão geral] (# visão geral)
-  - [O desafio] (# o-desafio)
-  - [Captura de tela] (# captura de tela)
-  - [Links] (# links)
-- [Meu processo] (# meu-processo)
-  - [Criado com] (# integrado)
-  - [O que aprendi] (# o-que-aprendi)
-  - [Desenvolvimento contínuo] (# desenvolvimento contínuo)
-  - [Recursos úteis] (# recursos-úteis)
-- [Autor] (# autor)
-- [Agradecimentos] (# agradecimentos)
+- [Visão geral](#Visão-geral)
+  - [O desafio](#O-desafio)
+  - [Screenshot](#Screenshot)
+  - [Links](#Links)
+- [Meu processo](#Meu-processo)
+    - [O que aprendi](#O-que-eu-aprendi)
+    - [Autor](#Autor)
 
-## Visão-geral 
 
-### O-desafio
+## Visão geral 
+
+### O desafio
 
 Os usuários devem ser capazes de: 
 - Definir o layout ideal, dependendo do tamanho da tela do dispositivo. 
@@ -29,6 +26,7 @@ Os usuários devem ser capazes de:
 ![statspreview-mobile](https://user-images.githubusercontent.com/87323173/132593967-24a1bb60-1d40-4212-ab9b-9b22b1a44a2f.png)
 
 ### Links 
+[Meu projeto](https://aguiartalita.github.io/statscardpreview/)
 
 ## Meu processo
 
